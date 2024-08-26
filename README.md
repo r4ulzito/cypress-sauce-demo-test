@@ -1,26 +1,32 @@
-## Projeto desenvolvido para utilização no Workshop de Cypress - DB 🖥️
+# 🖥️ Projeto desenvolvido para utilização no Workshop de Cypress - DB
+Neste README você encontrará os requisitos, passo a passo para rodar o projeto, lista de exercícios para serem realizados posteriormente ao desafio, e recomendações de conteúdos sobre Cypress.
 
-Esse projeto foi desenvolvido com o intuíto de ser uma base para o desenvolvimento de automações com o framework Cypress.io
+## Índice
 
-### Requisitos mínimos
+- [Requisitos mínimos](#requisitos-mínimos)
+- [Como executar o projeto](#como-executar-o-projeto)
+- [Lista de exercícios](#lista-de-exercícios)
+- [Recomendações de conteúdos sobre Cypress](#recomendações-de-conteúdos-sobre-cypress)
 
--   Node.js: v18.17.1 ou superior
--   NPM: v9.6.7 ou superior
--   GIT
+## Requisitos mínimos <a id="requisitos-mínimos"></a>
 
-### Como executar o projeto
+- Node.js: v18.17.1 ou superior
+- NPM: v9.6.7 ou superior
+- GIT
 
-No seu terminal:
+## Como executar o projeto <a id="como-executar-o-projeto"></a>
+
+No seu terminal, execute os seguintes comandos:
 
 ```bash
-# Execute o comando
-$ git clone https://github.com/r4ulzito/cypress-js-sample.git
-# Acesse
-$ cd cypress-js-sample
-# Instale as depêndencias
-$ npm install
-# Execute o projeto
-$ npm run cypress:open
-```
+# Clone o repositório
+git clone https://github.com/r4ulzito/cypress-js-sample.git
 
-> _Obs: Também será necessário um editor de código de sua preferencia para desenvolvimento das automações_
+# Acesse o diretório do projeto
+cd cypress-js-sample
+
+# Instale as dependências
+npm install
+
+# Execute o Cypress
+npm run cypress:open
