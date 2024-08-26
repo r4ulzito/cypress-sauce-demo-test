@@ -1,11 +1,10 @@
 # 🖥️ Projeto desenvolvido para utilização no Workshop de Cypress - DB
 Neste README você encontrará os requisitos, passo a passo para rodar o projeto, lista de exercícios para serem realizados posteriormente ao desafio, e recomendações de conteúdos sobre Cypress.
 
-## Índice
-
+### Índice
 - [Requisitos mínimos](#requisitos-mínimos)
 - [Como executar o projeto](#como-executar-o-projeto)
-- [Lista de exercícios](#lista-de-exercícios)
+- [Lista de exercícios](#lista-de-exercicios)
 - [Recomendações de conteúdos sobre Cypress](#recomendações-de-conteúdos-sobre-cypress)
 
 ## Requisitos mínimos <a id="requisitos-mínimos"></a>
@@ -18,15 +17,21 @@ Neste README você encontrará os requisitos, passo a passo para rodar o projeto
 
 No seu terminal, execute os seguintes comandos:
 
-```bash
-# Clone o repositório
+- Clone o repositório
 git clone https://github.com/r4ulzito/cypress-js-sample.git
 
-# Acesse o diretório do projeto
+- Acesse o diretório do projeto
 cd cypress-js-sample
 
-# Instale as dependências
+-  Instale as dependências
 npm install
 
-# Execute o Cypress
+- Execute o Cypress
 npm run cypress:open
+
+
+
+## Lista de exercícios <a id="lista-de-exercicios"></a>
+
+## Recomendações de conteúdos sobre Cypress <a id="recomendações-de-conteúdos-sobre-cypress"></a>
+
