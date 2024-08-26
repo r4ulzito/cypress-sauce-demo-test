@@ -1,28 +1,30 @@
-# 🖥️ Projeto desenvolvido para utilização no Workshop de Cypress - DB
+# 🖥️ Workshop de Cypress
 Neste README você encontrará os requisitos, passo a passo para rodar o projeto, sugestão de lista de exercícios para serem realizados posteriormente ao desafio, e recomendações de conteúdos sobre Cypress. 
 Em caso de dúvidas, o contato com os facilitadores é sempre bem-vindo! 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4D03AQEkU6C6WECrQw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1702430149778?e=1730332800&v=beta&t=MzRBpBluixhwppzKWR92WAIeqb6mbkY117CrI_K-oj0" alt="Imagem 1" width="200" style="border-radius: 10px;"/>
-      <p><strong>Raul de Souza</strong></p>
-      <p>raul.santos@db.tec.br</p>
-      <p><a href="https://www.linkedin.com/in/raul-de-souza/" target="_blank">LinkedIn</a></p>
-    </td>
-    <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4D03AQGXqwUbDJ44JA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711630108544?e=1730332800&v=beta&t=tTwtZ_N6cN7i38S3FMNdUDGRzCP2WX0h5rKLsidcHiE" alt="Imagem 2" width="200" style="border-radius: 10px;"/>
-      <p><strong>Matheus de Almeida</strong></p>
-      <p>matheus.muller@db.tec.br</p>
-      <p><a href="https://www.linkedin.com/in/matheusalmeida-qa/" target="_blank">LinkedIn</a></p>
-    </td>
-    <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4D03AQHesvxl5Czfog/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711560872796?e=1730332800&v=beta&t=nqshe2YGoG7z211AiI3dBByzFrOK_OBXJ3C5lDDgoN4" alt="Imagem 3" width="200" style="border-radius: 10px;"/>
-      <p><strong>Yasmin Castro</strong></p>
-      <p>yasmin.souza@db.tec.br</p>
-      <p><a href="https://www.linkedin.com/in/castro-yasmin/" target="_blank">LinkedIn</a></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQEkU6C6WECrQw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1702430149778?e=1730332800&v=beta&t=MzRBpBluixhwppzKWR92WAIeqb6mbkY117CrI_K-oj0" alt="Imagem 1" width="200" style="border-radius: 10px;"/>
+        <p><strong>Raul de Souza</strong></p>
+        <p>raul.santos@db.tec.br</p>
+        <p><a href="https://www.linkedin.com/in/raul-de-souza/" target="_blank">LinkedIn</a></p>
+      </td>
+      <td align="center">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGXqwUbDJ44JA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711630108544?e=1730332800&v=beta&t=tTwtZ_N6cN7i38S3FMNdUDGRzCP2WX0h5rKLsidcHiE" alt="Imagem 2" width="200" style="border-radius: 10px;"/>
+        <p><strong>Matheus de Almeida</strong></p>
+        <p>matheus.muller@db.tec.br</p>
+        <p><a href="https://www.linkedin.com/in/matheusalmeida-qa/" target="_blank">LinkedIn</a></p>
+      </td>
+      <td align="center">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQHesvxl5Czfog/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711560872796?e=1730332800&v=beta&t=nqshe2YGoG7z211AiI3dBByzFrOK_OBXJ3C5lDDgoN4" alt="Imagem 3" width="200" style="border-radius: 10px;"/>
+        <p><strong>Yasmin Castro</strong></p>
+        <p>yasmin.souza@db.tec.br</p>
+        <p><a href="https://www.linkedin.com/in/castro-yasmin/" target="_blank">LinkedIn</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### Índice
