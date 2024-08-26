@@ -57,7 +57,13 @@ npm run cypress:open
 
 
 
-## Lista de exercícios <a id="lista-de-exercicios"></a>
+## Exercícios para praticar! <a id="lista-de-exercicios"></a>
 
 ## Recomendações de conteúdos sobre Cypress <a id="recomendações-de-conteúdos-sobre-cypress"></a>
+
+Blog do Walmyr Filho (embaixador do Cypress no Brasil), sobre testes:
+https://talkingabouttesting.com/
+
+Playlist também do Walmyr, sobre Cypress:
+https://www.youtube.com/watch?v=w13JPmteGSM&list=PL-eblSNRj0QGDcVIccBBBp93fJbtRkKML
 
