@@ -1,4 +1,4 @@
-## Sobre
+## Projeto desenvolvido para utilização no Workshop de Cypress - DB
 
 Esse projeto foi desenvolvido com o intuíto de ser uma base para o desenvolvimento de automações com o framework Cypress.io
 
