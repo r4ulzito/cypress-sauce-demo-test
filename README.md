@@ -107,6 +107,17 @@ Algumas unidades da DB possuem uma quantidade X de licenças do Alura para serem
 Além disso, a empresa possui um programa de incentivo baseado em mentorias, onde você pode sinalizar para seu gestor a vontade de aprender mais/apronfudar-se em um assunto específico, e ele poderá te encaminhar para receber aulas de outro colaborador que já tenha experiência no tópico.
 <br>
 <br>
+
+Blogs para aprender sobre Cypress:
+- Documentação do Cypress:
+  https://docs.cypress.io/guides/overview/why-cypress
+
+- Site do Medium:
+  https://medium.com/@portugues
+
+<br>
+<br>
+
 Criadores com didáticas ótimas, gratuitamente:
 
 - Blog do Walmyr Filho (embaixador do Cypress no Brasil), sobre testes:
@@ -115,12 +126,6 @@ https://talkingabouttesting.com/
 - Playlist também do Walmyr, sobre Cypress:
 https://www.youtube.com/watch?v=w13JPmteGSM&list=PL-eblSNRj0QGDcVIccBBBp93fJbtRkKML
 
-Blogs para aprender sobre Cypress:
-- Documentação do Cypress:
-  https://docs.cypress.io/guides/overview/why-cypress
-
-- Site do Medium:
-  https://medium.com/@portugues
 
   
 
