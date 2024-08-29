@@ -101,7 +101,10 @@ Algumas unidades da DB possuem uma quantidade X de licenças do Alura para serem
 ![image](https://github.com/user-attachments/assets/c7099ea2-220d-4203-ad63-b3a8c3e65a2b)
 <br>
 <br>
-Além do Alura, existem inúmeros criadores com didáticas ótimas, gratuitamente:
+Além disso, a empresa possui um programa de incentivo baseado em mentorias, onde você pode sinalizar para seu gestor a vontade de aprender mais/apronfudar-se em um assunto específico, e ele poderá te encaminhar para receber aulas de outro colaborador que já tenha experiência no tópico.
+<br>
+<br>
+Criadores com didáticas ótimas, gratuitamente:
 
 - Blog do Walmyr Filho (embaixador do Cypress no Brasil), sobre testes:
 https://talkingabouttesting.com/
