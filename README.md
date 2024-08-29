@@ -115,3 +115,12 @@ https://talkingabouttesting.com/
 - Playlist também do Walmyr, sobre Cypress:
 https://www.youtube.com/watch?v=w13JPmteGSM&list=PL-eblSNRj0QGDcVIccBBBp93fJbtRkKML
 
+Blogs para aprender sobre Cypress:
+- Documentação do Cypress:
+  https://docs.cypress.io/guides/overview/why-cypress
+
+- Site do Medium:
+  https://medium.com/@portugues
+
+  
+
