@@ -87,7 +87,6 @@ npm run cypress:open
 <b>QUANDO:</b> Eu clicar no botão Checkout e voltar para a tela de produtos <br>
 <b>ENTÃO:</b> Os itens ainda devem estar no carrinho quando eu retornar.<br>
 <br>
-
 <b>DADO:</b> Que sou usuário do Sauce Demo <br>
 <b>E:</b> Acesso à tela de produtos <br>
 <b>QUANDO:</b> Eu redimensionar a janela do navegador <br>
