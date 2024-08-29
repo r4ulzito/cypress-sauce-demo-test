@@ -33,13 +33,13 @@ Em caso de dúvidas, o contato com os facilitadores é sempre bem-vindo!
 - [Lista de exercícios](#lista-de-exercicios)
 - [Recomendações de conteúdos sobre Cypress](#recomendações-de-conteúdos-sobre-cypress)
 
-## Requisitos mínimos <a id="requisitos-mínimos"></a>
+## 🛠 Requisitos mínimos <a id="requisitos-mínimos"></a>
 
 - Node.js: v18.17.1 ou superior
 - NPM: v9.6.7 ou superior
 - GIT
 
-## Como executar o projeto <a id="como-executar-o-projeto"></a>
+## 🤔 Como executar o projeto <a id="como-executar-o-projeto"></a>
 
 No seu terminal, execute os seguintes comandos:
 
@@ -57,9 +57,44 @@ npm run cypress:open
 
 
 
-## Exercícios para praticar! <a id="lista-de-exercicios"></a>
+## 📚 Exercícios para praticar <a id="lista-de-exercicios"></a>
+<b>Faça um fork desse projeto e adicione mais cenários! Algumas sugestões:</b>
 
-## Recomendações de conteúdos sobre Cypress <a id="recomendações-de-conteúdos-sobre-cypress"></a>
+<b>DADO:</b> Que sou um usuário do Sauce Demo <br>
+<b>E:</b> Acesso a tela de login <br>
+<b>QUANDO:</b> Eu preencher o campo Username com ‘wrong_user’ <br>
+<b>E:</b> Eu preencher o campo password com ‘wrong_password’ <br>
+<b>E:</b> Clicar no botão Login <br>
+<b>ENTÃO:</b> Devo ver uma mensagem de erro indicando credenciais incorretas. <br>
+<br>
+<b>DADO:</b> Que sou usuário do Sauce Demo <br>
+<b>E:</b> Acesso à tela de produtos <br>
+<b>QUANDO:</b> Eu acessar a tela de produtos <br>
+<b>ENTÃO:</b> Devo ver a lista de produtos exibida com os nomes e preços corretos. <br>
+<br>
+<b>DADO:</b> Que sou usuário do Sauce Demo <br>
+<b>E:</b> Adicionei um item ao carrinho <br>
+<b>QUANDO:</b> Eu clicar no botão Remove ao lado do item no carrinho <br>
+<b>ENTÃO:</b> O carrinho deve atualizar e o item deve ser removido. <br>
+<br>
+<b>DADO:</b> Que sou usuário do Sauce Demo <br>
+<b>E:</b> Adicionei um item ao carrinho <br>
+<b>QUANDO:</b> Eu alterar a quantidade de itens para 2 no carrinho <br>
+<b>ENTÃO:</b> O carrinho deve mostrar a quantidade correta de itens. <br>
+<br>
+<b>DADO:</b> Que sou usuário do Sauce Demo <br>
+<b>E:</b> Adicionei itens ao carrinho <br>
+<b>QUANDO:</b> Eu clicar no botão Checkout e voltar para a tela de produtos <br>
+<b>ENTÃO:</b> Os itens ainda devem estar no carrinho quando eu retornar.<br>
+<br>
+
+<b>DADO:</b> Que sou usuário do Sauce Demo <br>
+<b>E:</b> Acesso à tela de produtos <br>
+<b>QUANDO:</b> Eu redimensionar a janela do navegador <br>
+<b>ENTÃO:</b> A tela deve ajustar corretamente e manter a usabilidade. <br>
+
+
+## 🧵 Recomendações de conteúdos sobre Cypress <a id="recomendações-de-conteúdos-sobre-cypress"></a>
 
 Blog do Walmyr Filho (embaixador do Cypress no Brasil), sobre testes:
 https://talkingabouttesting.com/
