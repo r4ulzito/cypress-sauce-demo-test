@@ -94,11 +94,18 @@ npm run cypress:open
 <b>ENTÃO:</b> A tela deve ajustar corretamente e manter a usabilidade. <br>
 
 
-## 🧵 Recomendações de conteúdos sobre Cypress <a id="recomendações-de-conteúdos-sobre-cypress"></a>
+## 🧵 Conteúdos sobre Cypress <a id="recomendações-de-conteúdos-sobre-cypress"></a>
+Algumas unidades da DB possuem uma quantidade X de licenças do Alura para serem distribuídas. Essas licenças possibilitam acesso à todos os cursos da plataforma, e por lá temos materiais ótimos sobre automação e testes! Verifique com seu gestor ainda restam vagas e, se sim, estas são nossas recomendações por lá:
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/c7099ea2-220d-4203-ad63-b3a8c3e65a2b)
+<br>
+<br>
+Além do Alura, existem inúmeros criadores com didáticas ótimas, gratuitamente:
 
-Blog do Walmyr Filho (embaixador do Cypress no Brasil), sobre testes:
+- Blog do Walmyr Filho (embaixador do Cypress no Brasil), sobre testes:
 https://talkingabouttesting.com/
 
-Playlist também do Walmyr, sobre Cypress:
+- Playlist também do Walmyr, sobre Cypress:
 https://www.youtube.com/watch?v=w13JPmteGSM&list=PL-eblSNRj0QGDcVIccBBBp93fJbtRkKML
 
