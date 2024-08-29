@@ -1,5 +1,8 @@
 # 🖥️ Workshop de Cypress
 O projeto apresenta a solução desenvolvida pelos facilitadores, para o desafio proposto durante o workshop. <br>
+<a href="Desafio de Cypress - Workshop 1.pdf" download>
+    <button>Baixar PDF do desafio</button>
+</a><br>
 Neste README você encontrará os requisitos, passo a passo para rodar o código, sugestão de lista de exercícios para quem quiser praticar, e recomendações de conteúdos sobre Cypress. 
 Em caso de dúvidas, o contato com os facilitadores é sempre bem-vindo! 
 <div align="center">
