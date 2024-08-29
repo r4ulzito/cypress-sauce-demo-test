@@ -1,5 +1,6 @@
 # 🖥️ Workshop de Cypress
-Neste README você encontrará os requisitos, passo a passo para rodar o projeto, sugestão de lista de exercícios para serem realizados posteriormente ao desafio, e recomendações de conteúdos sobre Cypress. 
+O projeto apresenta a solução desenvolvida pelos facilitadores, para o desafio proposto durante o workshop. <br>
+Neste README você encontrará os requisitos, passo a passo para rodar o código, sugestão de lista de exercícios para quem quiser praticar, e recomendações de conteúdos sobre Cypress. 
 Em caso de dúvidas, o contato com os facilitadores é sempre bem-vindo! 
 <div align="center">
   <table>
